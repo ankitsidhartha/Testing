@@ -1,2 +1,2 @@
 # Testing
-making a repository for the testing purpose
+Making a repository for the testing purpose
